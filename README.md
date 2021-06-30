@@ -1,1 +1,2 @@
-# Manta-Ray
+# synchronousBallMovement
+Ball moving synchronously
